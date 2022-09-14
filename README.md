@@ -1,3 +1,4 @@
+![alt text](https://wallpaper.dog/large/5529077.jpg)
 <h1 align="center">Hi 👋, I'm Rosie Ingmann</h1>
 <h3 align="center">A student of Computer Science and Statistics</h3>
 
