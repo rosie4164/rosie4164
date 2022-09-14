@@ -1,10 +1,10 @@
 ![alt text](https://wallpaper.dog/large/5529077.jpg)
 <h1 align="center">Hi 👋, I'm Rosie Ingmann</h1>
-<h3 align="center">A student of Computer Science and Statistics</h3>
+<h3 align="center">A Student of Computer Science and Statistics</h3>
 
-- 🌱 I’m currently learning **Software Engineering, Probability, Theory of Computation**
+- 🌱 I’m currently taking **Software Engineering, Probability, Theory of Computation, and Computer Organization**
 
-- 📫 How to reach me **ringma23@colby.edu**
+- 📫 Reach me at **ringma23@colby.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
