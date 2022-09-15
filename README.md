@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently taking **Software Engineering, Probability, Theory of Computation, and Computer Organization**
 - 🎓 A student at **Colby College**
-- 📊 I am interested in **data and AI**
+- 📊 I am interested in **Data and AI**
 - 📫 Reach me at **ringma23@colby.edu**
-- 🥗 I like to cook new recipes
+- 🥗 I like to cook new recipes when I am not coding
 
 <p align="left">
 </p>
