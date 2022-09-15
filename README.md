@@ -4,8 +4,8 @@
 <h3 align="center">A Student of Computer Science and Statistics</h3>
 
 - 🌱 I’m currently taking **Software Engineering, Probability, Theory of Computation, and Computer Organization**
--🎓 A student at Colby College
--📊 I am interested in data
+-🎓 A student at **Colby College**
+-📊 I am interested in **data and AI**
 - 📫 Reach me at **ringma23@colby.edu**
 - 🥗 I like to cook new recipes
 
